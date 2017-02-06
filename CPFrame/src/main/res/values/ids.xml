@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- CpInput -->
+	<item name="cp_input_bankcard" type="id"/>
+	<item name="cp_input_idcard" type="id"/>
+	<item name="cp_input_phone" type="id"/>
+	<item name="cp_input_contact" type="id"/>
+	<item name="cp_input_name" type="id"/>
+	<item name="cp_input_amount" type="id"/>
+	<item name="cp_input_account" type="id"/>
+	<item name="cp_input_combox_jd" type="id"/>
+	<item name="cp_input_combox_wy" type="id"/>
+	<item name="cp_input_pwd" type="id"/>
+	<item name="cp_input_pwd_login" type="id"/>
+	<item name="cp_input_pwd_pay" type="id"/>
+	<item name="cp_input_remark" type="id"/>
+
+	<!-- pull to refresh -->
+	<item name="gridview" type="id"/>
+	<item name="webview" type="id"/>
+	<item name="scrollview" type="id"/>
+	<!-- navigationViewpager -->
+	<item name="viewpager_tag_is_sequence" type="id"></item>
+	<item name="viewpager_tag_is_sequence_selected" type="id"></item>
+
+</resources>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fileEndingAudio">
+		<item>.mp3</item>
+		<item>.wav</item>
+		<item>.ogg</item>
+		<item>.midi</item>
+	</array>
+    <array name="fileEndingExcel">
+		<item>.xls</item>
+		<item>.xlsx</item>
+	</array>
+    <array name="fileEndingImage">
+		<item>.png</item>
+		<item>.gif</item>
+		<item>.jpg</item>
+		<item>.jpeg</item>
+		<item>.bmp</item>
+	</array>
+    <array name="fileEndingPPT">
+		<item>.ppt</item>
+		<item>.pptx</item>
+	</array>
+    <array name="fileEndingPackage">
+		<item>.jar</item>
+		<item>.zip</item>
+		<item>.rar</item>
+		<item>.gz</item>
+		<item>.apk</item>
+		<item>.img</item>
+	</array>
+    <array name="fileEndingPdf">
+		<item>.pdf</item>
+	</array>
+    <array name="fileEndingText">
+		<item>.txt</item>
+		<item>.java</item>
+		<item>.c</item>
+		<item>.cpp</item>
+		<item>.py</item>
+		<item>.xml</item>
+		<item>.json</item>
+		<item>.log</item>
+	</array>
+    <array name="fileEndingVideo">
+		<item>.mp4</item>
+		<item>.rmvb</item>
+		<item>.avi</item>
+		<item>.flv</item>
+	</array>
+    <array name="fileEndingWebText">
+		<item>.htm</item>
+		<item>.html</item>
+		<item>.php</item>
+		<item>.jsp</item>
+	</array>
+    <array name="fileEndingWord">
+		<item>.doc</item>
+		<item>.docx</item>
+	</array>
+    <color name="base_end_color_default">#FFFFFF</color>
+    <color name="base_end_color_pressed">#ff2570ba</color>
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_start_color_pressed">#ff3590c4</color>
+    <color name="bg_common">#eeeeee</color>
+    <color name="bg_content">#ffffff</color>
+    <color name="bg_gray">#f1f1f1</color>
+    <color name="bg_item_pressed">#dddddd</color>
+    <color name="bg_main">#f0f0f0</color>
+    <color name="bg_menu">#f0f2ee</color>
+    <color name="bg_norification_bar">#f6e1bf</color>
+    <color name="bg_pressed">#eeeeee</color>
+    <color name="bg_tip">#fffbde</color>
+    <color name="bg_white">#fdfdfd</color>
+    <color name="black">#4d4d4d</color>
+    <color name="blue">#0088db</color>
+    <color name="btn_float">#f15353</color>
+    <color name="btn_float_enable">#dddddd</color>
+    <color name="btn_float_pressed">#a83a3a</color>
+    <color name="btn_main">#f15353</color>
+    <color name="btn_main_pressed">#a83a3a</color>
+    <color name="btn_secondary">#ffffff</color>
+    <color name="btn_secondary_broder">#dddddd</color>
+    <color name="btn_secondary_enable">#dddddd</color>
+    <color name="btn_secondary_pressed">#dddddd</color>
+    <color name="ccr_red_color">#f15353</color>
+    <color name="color_error">#FF0000</color>
+    <color name="color_login">#4d4d4d</color>
+    <color name="color_right">#99cc00</color>
+    <color name="color_tip">#f58220</color>
+    <color name="color_title_bg">#d9434b</color>
+    <color name="common_bg">#f2f2f2</color>
+    <color name="common_bg_bright">#fafafa</color>
+    <color name="common_dark_red">#a83a3a</color>
+    <color name="common_enable_gray">#999999</color>
+    <color name="common_list_header_bg">#eeeeee</color>
+    <color name="common_main_black">#333333</color>
+    <color name="common_main_gray">#dddddd</color>
+    <color name="common_main_red">#f15353</color>
+    <color name="common_main_white">#ffffff</color>
+    <color name="common_title_txt">#333333</color>
+    <color name="counter_grid_bg">#eff0f3</color>
+    <color name="counter_item_text_disable">#c8cdd8</color>
+    <color name="counter_item_text_normal">#7b87a6</color>
+    <color name="gesture_line">#00e592</color>
+    <color name="gray">#8d8d8d</color>
+    <color name="green">#00e592</color>
+    <color name="hint">#999999</color>
+    <color name="hyperlinks">#d9434b</color>
+    <color name="hyperlinks_second">#559fed</color>
+    <color name="light">#ffffff</color>
+    <color name="line_divider">#dddddd</color>
+    <color name="line_light">#eeeeee</color>
+    <color name="line_normal">#eeeeee</color>
+    <color name="line_pressed">#dddddd</color>
+    <color name="listview_divider">#b3b3b3</color>
+    <color name="menu_bg_normal">#b33138</color>
+    <color name="menu_line">#d9434b</color>
+    <color name="menu_state_red_normal">#d9434b</color>
+    <color name="menu_state_red_pressed">#ce2730</color>
+    <color name="menu_txt_normal">#ffffff</color>
+    <color name="menu_txt_selected">#ffcf5d</color>
+    <color name="pay_bg_message">#f2f2f2</color>
+    <color name="pay_txt_hint">#ffdddddd</color>
+    <color name="pay_txt_main">#555555</color>
+    <color name="pay_txt_title">#ffffff</color>
+    <color name="pay_txt_title_unenable">#ff6e76</color>
+    <color name="range_bar_chooce_color">#f15353</color>
+    <color name="range_bar_color">@color/common_enable_gray</color>
+    <color name="range_bar_txt_color">@color/common_enable_gray</color>
+    <color name="red">#d9434b</color>
+    <color name="rounded_container_border">#ffb7babb</color>
+    <color name="setHead">#dddddd</color>
+    <color name="slidetab_red">#500a25</color>
+    <color name="slidetab_white">#7fffffff</color>
+    <color name="tab_bar_textcolor_active">#00a6ac</color>
+    <color name="tab_bar_textcolor_normal">#6a717a</color>
+    <color name="tabview_text">#2d2d2d</color>
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    <color name="text_hint">#cccccc</color>
+    <color name="text_hyperlinks">#0077ff</color>
+    <color name="text_identity">#f15353</color>
+    <color name="text_main">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_thirdly">#999999</color>
+    <color name="text_white">#ffffff</color>
+    <color name="tip_bottom_line">#cccccc</color>
+    <color name="transparent_black">#30000000</color>
+    <color name="transparent_black_deep">#c0000000</color>
+    <color name="transparent_white">#90ffffff</color>
+    <color name="txt_amount">#d9434b</color>
+    <color name="txt_disable">#dddddd</color>
+    <color name="txt_first_title">#d9434b</color>
+    <color name="txt_hyperlinks">#d9434b</color>
+    <color name="txt_income">#ffaa00</color>
+    <color name="txt_main">#555555</color>
+    <color name="txt_main_normal">#555555</color>
+    <color name="txt_main_pressed">#c1c1c1</color>
+    <color name="txt_notification_bar">#b5662a</color>
+    <color name="txt_outlay">#39b54a</color>
+    <color name="txt_secondary">#989898</color>
+    <color name="txt_select_title">#f15353</color>
+    <color name="txt_title">#ffffff</color>
+    <color name="txt_warnning">#ff6e76</color>
+    <color name="txt_white">#FFFFFF</color>
+    <color name="weak">#bdbdbd</color>
+    <color name="webview_progress_bg">#f7ce6c</color>
+    <color name="welcome">#c9e8f7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="wpay">#ff8800</color>
+    <declare-styleable name="FixedRatioRelativeLayout"><attr format="float" name="ratio"/><attr format="boolean" name="adaptDensity"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/></declare-styleable>
+    <declare-styleable name="HorizontalRangeBar"><attr format="integer" name="tickCount"/><attr format="reference|color" name="barColor"/><attr format="reference|color" name="connectingLineColor"/><attr format="dimension" name="thumbRadius"/><attr format="reference" name="thumbImageNormal"/><attr format="reference" name="thumbImagePressed"/><attr format="reference|color" name="thumbColorNormal"/><attr format="reference|color" name="thumbColorPressed"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+			<flag name="disabled" value="0x0"/>
+			<flag name="pullFromStart" value="0x1"/>
+			<flag name="pullFromEnd" value="0x2"/>
+			<flag name="both" value="0x3"/>
+			<flag name="manualOnly" value="0x4"/>
+
+			
+			<flag name="pullDownFromTop" value="0x1"/>
+			<flag name="pullUpFromBottom" value="0x2"/>
+		</attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+			<flag name="rotate" value="0x0"/>
+			<flag name="flip" value="0x1"/>
+			<flag name="plain" value="0x2"/>
+			<flag name="regular" value="0x3"/>
+		</attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="ServiceTelTextView"><attr format="string" name="beforeText"/><attr format="string" name="afterText"/><attr format="string" name="telNumber"/></declare-styleable>
+    <declare-styleable name="cp_input"><attr format="string" name="hint"/><attr format="string" name="keyText"/><attr format="reference" name="background"/><attr format="boolean" name="enable"/><attr format="string" name="inputType"/><attr format="color" name="textColor"/><attr format="dimension" name="height"/><attr format="dimension" name="width"/><attr format="integer" name="maxLength"/><attr format="boolean" name="isTip"/><attr format="boolean" name="keepLeft"/><attr name="gravity">
+			<enum name="left" value="0x03"/>
+			<enum name="center_vertical" value="0x10"/>
+			<enum name="right" value="0x05"/>
+		</attr></declare-styleable>
+    <declare-styleable name="cp_rich_textview"><attr format="string" name="prefix"/><attr format="string" name="suffix"/><attr format="dimension" name="integerSize"/><attr format="dimension" name="decimalSize"/><attr format="string" name="text"/><attr format="dimension" name="paddingTopDecimal"/></declare-styleable>
+    <declare-styleable name="wheel_view"><attr format="reference|color" name="centerbackground"/></declare-styleable>
+    <dimen name="activity_padding_drawable">-23dp</dimen>
+    <dimen name="activity_padding_txt_drawable">15dp</dimen>
+    <dimen name="amount_dot_middle">12sp</dimen>
+    <dimen name="amount_dot_small">10sp</dimen>
+    <dimen name="amount_int_middle">16sp</dimen>
+    <dimen name="amount_int_small">14sp</dimen>
+    <dimen name="amount_pad_bottom_middle">3dp</dimen>
+    <dimen name="amount_pad_bottom_small">3dp</dimen>
+    <dimen name="cash_hight">64dp</dimen>
+    <dimen name="cash_padding_left">120dp</dimen>
+    <dimen name="cash_withdraw_title_margin_top">68dp</dimen>
+    <dimen name="ccr_card_support_logo_size">22dp</dimen>
+    <dimen name="change_distance">2dp</dimen>
+    <dimen name="change_text">16sp</dimen>
+    <dimen name="common_btn_height">46dp</dimen>
+    <dimen name="common_btn_margin_top">30dp</dimen>
+    <dimen name="common_title_height">48dp</dimen>
+    <dimen name="common_title_img_height">20dp</dimen>
+    <dimen name="common_title_img_width">50dp</dimen>
+    <dimen name="counter_item_width">64dp</dimen>
+    <dimen name="cp_widget_height">48dp</dimen>
+    <dimen name="dialog_all_margin">5dip</dimen>
+    <dimen name="dialog_all_padding">8dip</dimen>
+    <dimen name="dialog_btn_height">45dip</dimen>
+    <dimen name="dialog_btn_width">150dip</dimen>
+    <dimen name="dialog_content_textsize">16sp</dimen>
+    <dimen name="dialog_marginleft">10dip</dimen>
+    <dimen name="dialog_marginright">10dip</dimen>
+    <dimen name="dialog_model_btn_height">41dp</dimen>
+    <dimen name="dialog_model_btn_margin">10dp</dimen>
+    <dimen name="dialog_title_textsize">20sp</dimen>
+    <dimen name="divider_line_height">1px</dimen>
+    <dimen name="drawer_h_padding">16dp</dimen>
+    <dimen name="drawer_header_size">148dp</dimen>
+    <dimen name="drawer_item_height">48dp</dimen>
+    <dimen name="drawer_main_text">16sp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="image_middle">70dp</dimen>
+    <dimen name="image_normal">35dp</dimen>
+    <dimen name="image_pull_refresh_height">35dp</dimen>
+    <dimen name="image_small">30dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="key_height">50.0dip</dimen>
+    <dimen name="layout_height_large">96dp</dimen>
+    <dimen name="layout_height_list_title">42dp</dimen>
+    <dimen name="layout_height_middle">48dp</dimen>
+    <dimen name="layout_height_small">24dp</dimen>
+    <dimen name="layout_width_large">40dp</dimen>
+    <dimen name="layout_width_middle">20dp</dimen>
+    <dimen name="layout_width_small">10dp</dimen>
+    <dimen name="linespacing_middle">5dp</dimen>
+    <dimen name="linespacing_small">3dp</dimen>
+    <dimen name="list_item_height">64dp</dimen>
+    <dimen name="main_tab_bar_padding">6dp</dimen>
+    <dimen name="margin_cell">35dp</dimen>
+    <dimen name="margin_h_large">24dp</dimen>
+    <dimen name="margin_h_middle">15dp</dimen>
+    <dimen name="margin_h_small">4dp</dimen>
+    <dimen name="margin_h_xsmall">10dp</dimen>
+    <dimen name="margin_page_control">8dp</dimen>
+    <dimen name="margin_v_large">24dp</dimen>
+    <dimen name="margin_v_middle">16dp</dimen>
+    <dimen name="margin_v_small">4dp</dimen>
+    <dimen name="margin_v_tip">8dp</dimen>
+    <dimen name="menu_item_high">48dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="padding_edit">8dp</dimen>
+    <dimen name="padding_input_edit">125dp</dimen>
+    <dimen name="padding_input_edit_small">90dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_left_input_edit">60dp</dimen>
+    <dimen name="padding_line">10dp</dimen>
+    <dimen name="padding_middle">@dimen/margin_h_middle</dimen>
+    <dimen name="padding_small">6dp</dimen>
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="size_jrb_large">36sp</dimen>
+    <dimen name="size_large">18sp</dimen>
+    <dimen name="size_large_amount">36sp</dimen>
+    <dimen name="size_middle">14sp</dimen>
+    <dimen name="size_small">12sp</dimen>
+    <dimen name="size_word">14sp</dimen>
+    <dimen name="size_xlarge">22sp</dimen>
+    <dimen name="size_xmiddle">16sp</dimen>
+    <dimen name="size_xxlarge">48sp</dimen>
+    <dimen name="size_xxxlarge">80sp</dimen>
+    <dimen name="switcher_width">50dp</dimen>
+    <dimen name="tab_bar_height">55dp</dimen>
+    <dimen name="tab_bar_textsize">10dp</dimen>
+    <dimen name="tip_bg_height_large">66dp</dimen>
+    <dimen name="tip_bg_height_middle">55dp</dimen>
+    <dimen name="title_high">48dp</dimen>
+    <dimen name="toast_y_offset">64.0dip</dimen>
+    <dimen name="wallet_content_height">65dp</dimen>
+    <dimen name="wallet_header_size">100dp</dimen>
+    <item name="cp_input_account" type="id"/>
+    <item name="cp_input_amount" type="id"/>
+    <item name="cp_input_bankcard" type="id"/>
+    <item name="cp_input_combox_jd" type="id"/>
+    <item name="cp_input_combox_wy" type="id"/>
+    <item name="cp_input_contact" type="id"/>
+    <item name="cp_input_idcard" type="id"/>
+    <item name="cp_input_name" type="id"/>
+    <item name="cp_input_phone" type="id"/>
+    <item name="cp_input_pwd" type="id"/>
+    <item name="cp_input_pwd_login" type="id"/>
+    <item name="cp_input_pwd_pay" type="id"/>
+    <item name="cp_input_remark" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="viewpager_tag_is_sequence" type="id"/>
+    <item name="viewpager_tag_is_sequence_selected" type="id"/>
+    <item name="webview" type="id"/>
+    <string name="about_service_tel"><u>400-098-8511</u></string>
+    <string name="account">账号</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_error_checkbox">提交后重启</string>
+    <string name="app_error_close">关闭</string>
+    <string name="app_error_msg">应用出错 ，即将关闭。</string>
+    <string name="app_error_submit">提交</string>
+    <string name="app_error_tag_close">已发送，应用已关闭…</string>
+    <string name="app_error_tag_des">您可以对出错情况进行简单描述并提交错误报告，以便我们修复完善。</string>
+    <string name="app_error_tag_hint">请对错误信息进行描述(可不填)</string>
+    <string name="app_error_tag_restart">已发送，自动重启中…请稍后</string>
+    <string name="app_error_tag_send">发送中</string>
+    <string name="app_error_title">警告</string>
+    <string name="app_name">qmw</string>
+    <string name="bankcard_choose_belong_bank">请选择所属银行</string>
+    <string name="bankcard_credit">信用卡</string>
+    <string name="bankcard_debit">储蓄卡</string>
+    <string name="bankcard_number">银行卡卡号</string>
+    <string name="bankcard_number_cc">信用卡卡号</string>
+    <string name="bankcard_number_dc">储蓄卡卡号</string>
+    <string name="bankcard_type">卡类型</string>
+    <string name="cancel">取消</string>
+    <string name="common_loading">正在加载…</string>
+    <string name="common_refresh_net">点击刷新</string>
+    <string name="common_sms_checkcode">短信验证码 </string>
+    <string name="common_sms_pay_tip">已向手机号 %s发送短信验证码，请输入并确认付款</string>
+    <string name="common_sms_resend">重新获取</string>
+    <string name="common_sms_send">获取短信验证码 </string>
+    <string name="common_sms_send_click">%s 秒后可重发 </string>
+    <string name="common_sms_tip">已向手机号 %s发送短信验证码 </string>
+    <string name="counter_fingerprint_btn">指纹支付</string>
+    <string name="counter_fingerprint_check">指纹密码验证</string>
+    <string name="counter_mobile_paypwd_check">手机支付密码验证</string>
+    <string name="counter_pay_mode_fingerprint">使用指纹密码验证</string>
+    <string name="counter_pay_mode_other">其他方式验证</string>
+    <string name="counter_paypwd_check">支付密码验证</string>
+    <string name="counter_redeem_way">赎回至%s</string>
+    <string name="counter_trade_finish">交易成功</string>
+    <string name="cp_button">"cp_button"</string>
+    <string name="cp_combox_edit">"cp_combox_edit"</string>
+    <string name="cp_input_edit">"cp_input_edit"</string>
+    <string name="cp_input_illlimit_tip">最高限额为0元，无法操作</string>
+    <string name="cp_input_left_txt">"cp_input_left_txt"</string>
+    <string name="cp_input_maxlimit_tip">金额最大 %s 元</string>
+    <string name="cp_input_minlimit_tip">金额最小 %s 元</string>
+    <string name="cp_input_txt">"cp_input_txt"</string>
+    <string name="cp_listview_footer_hint_nomore">暂无更多记录</string>
+    <string name="cp_listview_footer_hint_normal">查看更多</string>
+    <string name="cp_listview_footer_hint_ready">松开载入更多</string>
+    <string name="cp_listview_header_hint_loading">正在加载…</string>
+    <string name="cp_listview_header_hint_normal">下拉刷新</string>
+    <string name="cp_listview_header_hint_ready">松开刷新数据</string>
+    <string name="cp_listview_header_last_time">上次更新时间：</string>
+    <string name="done">完成</string>
+    <string name="download_file_loading">正在下载文件</string>
+    <string name="download_no_sdcard_error">下载失败，请检查SD卡是否挂载</string>
+    <string name="error_download_fail">下载失败，请重新下载！</string>
+    <string name="error_net_exception">网络异常，请重试</string>
+    <string name="error_net_nohost">服务器解析地址失败</string>
+    <string name="error_net_response">请求失败，请重试</string>
+    <string name="error_net_timeout">网络超时</string>
+    <string name="error_net_unconnect">无网络连接，请检测网络！</string>
+    <string name="error_not_file">对不起，这不是文件！</string>
+    <string name="error_not_url">网络地址错误</string>
+    <string name="error_openFile_fail">无法打开，请安装相应的软件！</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_key_amount">金额</string>
+    <string name="input_key_cardholder">姓名</string>
+    <string name="input_key_cardnum">卡号</string>
+    <string name="input_key_idcard">身份证</string>
+    <string name="input_key_pwd">密 码</string>
+    <string name="login_paypwd">京东钱包支付密码</string>
+    <string name="nfc_support_tip">支持NFC识别</string>
+    <string name="password">密码</string>
+    <string name="paychannel_mode_select">请选择支付方式</string>
+    <string name="paychannel_no_support_channel">暂无可用支付方式</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_last_time">上次更新时间：%s</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在刷新…</string>
+    <string name="pull_to_refresh_release_label">释放后刷新</string>
+    <string name="service_tel_dialog">拨打</string>
+    <string name="sure">确定</string>
+    <string name="tip_cardholder">持卡人说明</string>
+    <string name="tip_cardholder_desc">为了您的账户资金安全，只能绑定持卡人本人的银行卡</string>
+    <string name="tip_format_error_bankcard">银行卡号格式不正确</string>
+    <string name="tip_format_error_bankcard_cvv">卡背面后3位数格式不正确</string>
+    <string name="tip_format_error_bankcard_user">持卡人姓名格式不正确</string>
+    <string name="tip_format_error_checkcode">短信验证码格式不正确</string>
+    <string name="tip_format_error_idcard">证件号码格式不正确</string>
+    <string name="tip_format_error_login_password">登录密码格式不正确</string>
+    <string name="tip_format_error_mobile">手机号码格式不正确</string>
+    <string name="tip_format_error_password">密码格式不正确</string>
+    <string name="tip_format_error_pay_password">支付密码格式不正确</string>
+    <string name="tip_format_error_remark">备注输入字数过多</string>
+    <string name="tip_format_error_select_bankcard">请选择您的银行卡</string>
+    <string name="tip_format_error_valid_date">信用卡有效期格式不正确</string>
+    <string name="tip_format_error_wy_account">钱包账号格式不正确</string>
+    <string name="tip_idcard">身份证号说明</string>
+    <string name="tip_idcard_desc">身份证号为您在办理银行卡时所填写的身份证号</string>
+    <string name="tip_ok">我知道了</string>
+    <string name="webview_call">是否拨打电话</string>
+    <string name="withdraw_fingerprint_not_set">您未开启指纹支付</string>
+    <string name="withdraw_input_key_pay_pwd">支付密码</string>
+    <string name="withdraw_redeem_btn">赎回</string>
+    <string name="withdraw_redeem_to_account">赎回到账户余额</string>
+    <string name="withdraw_redeem_to_bank">赎回到尾号%s的储蓄卡</string>
+    <string name="withdraw_redeem_to_xjk">赎回到小金库余额</string>
+    <style name="CustomProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@drawable/icon_transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.Activity.Common" parent="android:Theme">
+        <item name="android:windowTitleSize">@dimen/title_high</item>
+        <item name="android:windowBackground">@color/common_bg</item>
+        <item name="android:windowTitleBackgroundStyle">@style/app_title_background_color</item>
+        <item name="android:windowAnimationStyle">@style/animation_activity_common</item>
+    </style>
+    <style name="animation_activity_common">
+        <item name="android:activityOpenEnterAnimation">@anim/push_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/push_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_right_out</item>
+    </style>
+    <style name="app_title_background_color">
+        <item name="android:background">@color/common_bg</item>
+    </style>
+    <style name="btn_float_standard" parent="btn_normal_standard">
+        <item name="android:background">@drawable/common_float_btn_bg</item>
+        <item name="android:textColor">@color/common_main_btn_txt</item>
+    </style>
+    <style name="btn_light" parent="btn_normal">
+        <item name="android:background">@drawable/common_lightbtn_bg</item>
+        <item name="android:textColor">@color/common_light</item>
+    </style>
+    <style name="btn_main" parent="btn_normal">
+        <item name="android:background">@drawable/common_mainbtn_bg</item>
+        <item name="android:textColor">@color/common_main</item>
+    </style>
+    <style name="btn_main_standard" parent="btn_normal_standard">
+        <item name="android:layout_marginTop">@dimen/common_btn_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/padding_middle</item>
+        <item name="android:layout_marginRight">@dimen/padding_middle</item>
+        <item name="android:background">@drawable/common_main_btn_bg</item>
+        <item name="android:textColor">@color/common_main_btn_txt</item>
+    </style>
+    <style name="btn_model" parent="btn_main">
+        <item name="android:layout_margin">@dimen/dialog_model_btn_margin</item>
+        <item name="android:layout_height">@dimen/dialog_model_btn_height</item>
+    </style>
+    <style name="btn_normal">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cp_widget_height</item>
+        <item name="android:textSize">@dimen/size_large</item>
+        <item name="android:paddingLeft">@dimen/padding_middle</item>
+        <item name="android:paddingRight">@dimen/padding_middle</item>
+    </style>
+    <style name="btn_normal_standard">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/common_btn_height</item>
+        <item name="android:textSize">@dimen/size_xmiddle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="btn_secondary_standard" parent="btn_normal_standard">
+        <item name="android:layout_marginTop">@dimen/common_btn_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/padding_middle</item>
+        <item name="android:layout_marginRight">@dimen/padding_middle</item>
+        <item name="android:background">@drawable/common_secondarybtn_bg</item>
+        <item name="android:textColor">@color/common_secondary_btn_txt</item>
+    </style>
+    <style name="common_frame">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:minHeight">@dimen/cp_widget_height</item>
+    </style>
+    <style name="common_title_style" parent="android:Theme">
+        <item name="android:windowTitleSize">@dimen/title_high</item>
+        <item name="android:windowBackground">@color/common_bg</item>
+        <item name="android:windowTitleBackgroundStyle">@style/app_title_background_color</item>
+    </style>
+    <style name="cp_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="cp_table_txt_content">
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:textColor">@color/hint</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="cp_table_txt_subtitle">
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_secondary</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cp_table_txt_title">
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/txt_main</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="divider_line">
+        <item name="android:layout_width">@dimen/divider_line_height</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@color/line_normal</item>
+    </style>
+    <style name="divider_line_bottom">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@drawable/spliter</item>
+    </style>
+    <style name="edit_divider_line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:paddingLeft">@dimen/padding_line</item>
+        <item name="android:paddingRight">@dimen/padding_line</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="edit_normal" parent="common_frame">
+        <item name="android:background">@color/bg_content</item>
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColorHint">@color/hint</item>
+        <item name="android:textColor">@color/common_text_color</item>
+    </style>
+    <style name="popuWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/popuwindow_in</item>
+        <item name="android:windowExitAnimation">@anim/popuwindow_out</item>
+    </style>
+    <style name="txt_hint" parent="txt_normal">
+    <item name="android:textSize">@dimen/size_middle</item>
+    <item name="android:textColor">@color/hint</item>
+    </style>
+    <style name="txt_hyperlinks_second" parent="txt_normal">
+    <item name="android:textSize">@dimen/size_middle</item>
+    <item name="android:textColor">@color/hyperlinks_second</item>
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="txt_large" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_large</item>
+    </style>
+    <style name="txt_normal">
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:textColor">@color/txt_main</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColorHint">@color/hint</item>
+    </style>
+    <style name="txt_small" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_small</item>
+    </style>
+    <style name="txt_xmiddle" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_xmiddle</item>
+    </style>
+</resources>

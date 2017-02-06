@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<!-- 设置背景填充色为白色 -->
+	<solid android:color="@color/bg_content" />
+	<!-- 设置边框宽度为1dp，边框颜色为深色 -->
+	<stroke
+		android:width="1px"
+		android:color="@color/bg_pressed" />
+
+</shape>

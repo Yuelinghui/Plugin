@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_secondarybtn_bg_pressed.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_secondarybtn_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_mainbtn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_mainbtn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_main_btn_bg_pressed.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_main_btn_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/tableview_rounded_bottom.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/tableview_rounded_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_float_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_float_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/webview_progressbar_drawable.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/webview_progressbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/combox_drop_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/combox_drop_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/cp_dialog_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/cp_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_ic_del.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_ic_del.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_round_white_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_round_white_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/sms_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/sms_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dot_stock_trade_focused.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dot_stock_trade_focused.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dialog_right_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dialog_right_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/pay_kuang_title_bar_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/pay_kuang_title_bar_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dot_focused.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dot_focused.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_select_arrow.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_select_arrow.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_secondarybtn_bg_normal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_secondarybtn_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/wheel_val.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/tableview_rounded_middle.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/tableview_rounded_middle.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_list_main_without_border.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_list_main_without_border.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/tableview_rounded_top.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/tableview_rounded_top.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dialog_single_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dialog_single_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_edit_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/cp_btn_left_light_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/cp_btn_left_light_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_white_round_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_white_round_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/tableview_item_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/tableview_item_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_float_btn_bg_normal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_float_btn_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/cp_progressdialog_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/cp_progressdialog_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/cp_btn_bottom_light_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/cp_btn_bottom_light_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_main_btn_bg_normal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_main_btn_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_white_withborder.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_white_withborder.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_secondarybtn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_secondarybtn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_btn_bg_disabled.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_btn_bg_disabled.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dot_normal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dot_normal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_float_btn_bg_pressed.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_float_btn_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/dialog_left_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/dialog_left_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/toast_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/cp_btn_right_light_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/cp_btn_right_light_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_main_btn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_main_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_lightbtn_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_lightbtn_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/common_list_main.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/common_list_main.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/counter_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/counter_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable/spliter.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable/spliter.xml"
+    }
+]

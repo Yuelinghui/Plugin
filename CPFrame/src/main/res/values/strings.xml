@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">qmw</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="sure">确定</string>
+	<string name="done">完成</string>
+	<string name="cancel">取消</string>
+	<string name="common_refresh_net">点击刷新</string>
+	<string name="common_loading">正在加载&#8230;</string>
+
+	<!-- 异常日志 -->
+	<string name="app_error_msg">应用出错 ，即将关闭。</string>
+	<string name="app_error_title">警告</string>
+	<string name="app_error_submit">提交</string>
+	<string name="app_error_close">关闭</string>
+	<string name="app_error_tag_send">发送中</string>
+	<string name="app_error_tag_restart">已发送，自动重启中&#8230;请稍后</string>
+	<string name="app_error_tag_close">已发送，应用已关闭&#8230;</string>
+	<string name="app_error_tag_des">您可以对出错情况进行简单描述并提交错误报告，以便我们修复完善。</string>
+	<string name="app_error_tag_hint">请对错误信息进行描述(可不填)</string>
+	<string name="app_error_checkbox">提交后重启</string>
+	<string name="error_net_nohost">服务器解析地址失败</string>
+	<string name="error_net_exception">网络异常，请重试</string>
+	<string name="error_net_response">请求失败，请重试</string>
+	<string name="error_net_timeout">网络超时</string>
+	<string name="error_net_unconnect">无网络连接，请检测网络！</string>
+	<string name="error_download_fail">下载失败，请重新下载！</string>
+	<string name="error_openFile_fail">无法打开，请安装相应的软件！</string>
+	<string name="error_not_file">对不起，这不是文件！</string>
+	<string name="download_no_sdcard_error">下载失败，请检查SD卡是否挂载</string>
+	<string name="error_not_url">网络地址错误</string>
+
+	<!-- 下载 -->
+	<string name="download_file_loading">正在下载文件</string>
+	<!-- webview -->
+	<string name="webview_call">是否拨打电话</string>
+
+	<!-- cp listview -->
+	<string name="cp_listview_header_hint_normal">下拉刷新</string>
+	<string name="cp_listview_header_hint_ready">松开刷新数据</string>
+	<string name="cp_listview_header_hint_loading">正在加载&#8230;</string>
+	<string name="cp_listview_header_last_time">上次更新时间：</string>
+	<string name="cp_listview_footer_hint_normal">查看更多</string>
+	<string name="cp_listview_footer_hint_ready">松开载入更多</string>
+	<string name="cp_listview_footer_hint_nomore">暂无更多记录</string>
+
+	<!-- input tip -->
+	<string name="tip_format_error_bankcard_user">持卡人姓名格式不正确</string>
+	<string name="tip_format_error_remark">备注输入字数过多</string>
+	<string name="tip_format_error_bankcard_cvv">卡背面后3位数格式不正确</string>
+	<string name="tip_format_error_idcard">证件号码格式不正确</string>
+	<string name="tip_format_error_mobile">手机号码格式不正确</string>
+	<string name="tip_format_error_bankcard">银行卡号格式不正确</string>
+	<string name="tip_format_error_select_bankcard">请选择您的银行卡</string>
+	<string name="tip_format_error_valid_date">信用卡有效期格式不正确</string>
+	<string name="tip_format_error_checkcode">短信验证码格式不正确</string>
+	<string name="tip_format_error_password">密码格式不正确</string>
+	<string name="tip_format_error_pay_password">支付密码格式不正确</string>
+	<string name="tip_format_error_login_password">登录密码格式不正确</string>
+	<string name="tip_format_error_wy_account">钱包账号格式不正确</string>
+	<string name="account">账号</string>
+	<string name="password">密码</string>
+	<string name="input_key_cardholder">姓名</string>
+	<string name="tip_cardholder">持卡人说明</string>
+	<string name="tip_cardholder_desc">为了您的账户资金安全，只能绑定持卡人本人的银行卡</string>
+	<string name="input_key_cardnum">卡号</string>
+	<string name="input_key_idcard">身份证</string>
+	<string name="input_key_amount">金额</string>
+	<string name="input_key_pwd">密 码</string>
+	<string name="cp_input_minlimit_tip">金额最小 %s 元</string>
+	<string name="cp_input_illlimit_tip">最高限额为0元，无法操作</string>
+	<string name="cp_input_maxlimit_tip">金额最大 %s 元</string>
+	<string name="tip_idcard_desc">身份证号为您在办理银行卡时所填写的身份证号</string>
+	<string name="tip_idcard">身份证号说明</string>
+	<string name="tip_ok">我知道了</string>
+	<!-- tag -->
+	<string name="cp_input_edit">"cp_input_edit"</string>
+	<string name="cp_input_txt">"cp_input_txt"</string>
+	<string name="cp_input_left_txt">"cp_input_left_txt"</string>
+	<string name="cp_button">"cp_button"</string>
+	<string name="cp_combox_edit">"cp_combox_edit"</string>
+	<!-- pull to refreesh -->
+	<string name="pull_to_refresh_pull_label">下拉刷新…</string>
+	<string name="pull_to_refresh_release_label">释放后刷新</string>
+	<string name="pull_to_refresh_refreshing_label">正在刷新&#8230;</string>
+	<string name="pull_to_refresh_last_time">上次更新时间：%s</string>
+	<!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+	<string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+	<string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+	<string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+	<string name="common_sms_checkcode">短信验证码 </string>
+	<string name="common_sms_send_click">%s 秒后可重发 </string>
+	<string name="common_sms_resend">重新获取</string>
+	<string name="common_sms_tip">已向手机号 %s发送短信验证码 </string>
+	<string name="common_sms_pay_tip">已向手机号 %s发送短信验证码，请输入并确认付款</string>
+	<string name="common_sms_send">获取短信验证码 </string>
+
+	<string name="about_service_tel"><u>400-098-8511</u></string>
+	<string name="service_tel_dialog">拨打</string>
+	<!-- 支付前置 -->
+	<string name="bankcard_type">卡类型</string>
+	<string name="bankcard_choose_belong_bank">请选择所属银行</string>
+	<string name="nfc_support_tip">支持NFC识别</string>
+ 	<string name="bankcard_number">银行卡卡号</string>
+	<string name="bankcard_number_dc">储蓄卡卡号</string>
+	<string name="bankcard_number_cc">信用卡卡号</string>
+	<string name="paychannel_mode_select">请选择支付方式</string>
+	<string name="paychannel_no_support_channel">暂无可用支付方式</string>
+	<!--赎回控件-->
+	<string name="withdraw_input_key_pay_pwd">支付密码</string>
+	<string name="withdraw_fingerprint_not_set">您未开启指纹支付</string>
+	<string name="counter_fingerprint_check">指纹密码验证</string>
+	<string name="counter_fingerprint_btn">指纹支付</string>
+	<string name="counter_pay_mode_other">其他方式验证</string>
+	<string name="counter_pay_mode_fingerprint">使用指纹密码验证</string>
+	<string name="counter_mobile_paypwd_check">手机支付密码验证</string>
+	<string name="counter_paypwd_check">支付密码验证</string>
+	<string name="counter_redeem_way">赎回至%s</string>
+	<string name="bankcard_credit">信用卡</string>
+	<string name="bankcard_debit">储蓄卡</string>
+	<string name="login_paypwd">京东钱包支付密码</string>
+	<string name="counter_trade_finish">交易成功</string>
+	<string name="withdraw_redeem_to_bank">赎回到尾号%s的储蓄卡</string>
+	<string name="withdraw_redeem_to_xjk">赎回到小金库余额</string>
+	<string name="withdraw_redeem_to_account">赎回到账户余额</string>
+	<string name="withdraw_redeem_btn">赎回</string>
+
+</resources>

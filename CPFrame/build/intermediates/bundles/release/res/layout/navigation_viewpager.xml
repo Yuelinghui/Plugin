@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/common_bg"
+	android:orientation="vertical" >
+
+	<!-- 小于5个标题时使用的标题栏 -->
+
+	<LinearLayout
+		android:id="@+id/layout_title_root"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/bg_content"
+		android:orientation="vertical"
+		android:visibility="gone" >
+
+		<LinearLayout
+			android:id="@+id/layout_title"
+			android:layout_width="match_parent"
+			android:layout_height="35dp"
+			android:gravity="center_vertical"
+			android:orientation="horizontal" >
+		</LinearLayout>
+		<!-- 标题栏下滑线 -->
+
+		<FrameLayout
+			android:layout_width="match_parent"
+			android:layout_height="2dp" >
+
+			<View
+				android:layout_width="match_parent"
+				android:layout_height="1dp"
+				android:layout_marginTop="1dp"
+				android:background="@color/line_pressed" />
+
+			<ImageView
+				android:id="@+id/img_line"
+				android:layout_width="match_parent"
+				android:layout_height="2dp"
+				android:background="@color/txt_select_title" />
+		</FrameLayout>
+	</LinearLayout>
+
+	<!-- 大于等于5个标题时使用的标题栏 -->
+
+	<LinearLayout
+		android:id="@+id/layout_multi_title_parent"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical" >
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@color/bg_content"
+			android:gravity="center_vertical"
+			android:orientation="horizontal" >
+
+			<ImageView
+				android:id="@+id/img_multi_title_left_arrow"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:paddingLeft="@dimen/padding_small"
+				android:paddingRight="@dimen/padding_small"
+				android:src="@drawable/icon_navigation_left_arrow"
+				android:visibility="invisible" />
+
+			<com.cpframe.widget.viewpager.CPHorizontalScrollView
+				android:id="@+id/layout_multi_title_root"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:overScrollMode="never"
+				android:scrollbars="none" >
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:orientation="vertical" >
+
+					<!-- 标题栏父布局 -->
+
+					<LinearLayout
+						android:id="@+id/layout_multi_title"
+						android:layout_width="wrap_content"
+						android:layout_height="35dp"
+						android:orientation="horizontal" >
+					</LinearLayout>
+					<!-- 标题栏下滑线 -->
+
+					<ImageView
+						android:id="@+id/img_multi_line"
+						android:layout_width="match_parent"
+						android:layout_height="2dp"
+						android:background="@color/txt_select_title"
+						android:visibility="gone" />
+				</LinearLayout>
+			</com.cpframe.widget.viewpager.CPHorizontalScrollView>
+
+			<ImageView
+				android:id="@+id/img_multi_title_right_arrow"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:paddingLeft="@dimen/padding_small"
+				android:paddingRight="@dimen/padding_small"
+				android:src="@drawable/icon_navigation_right_arrow"
+				android:visibility="invisible" />
+
+			<TextView
+				android:id="@+id/img_down_menu"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:paddingLeft="@dimen/padding_xsmall"
+				android:paddingRight="@dimen/padding_line"
+				android:visibility="gone" />
+		</LinearLayout>
+
+		<View
+			android:layout_width="match_parent"
+			android:layout_height="1dp"
+			android:background="@color/line_pressed" />
+	</LinearLayout>
+	<!-- viewpager 主布局 -->
+
+	<android.support.v4.view.ViewPager
+		android:id="@+id/viewpager_main"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_gravity="center" >
+	</android.support.v4.view.ViewPager>
+
+</LinearLayout>

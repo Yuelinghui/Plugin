@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_default.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/common_default.png"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/icon_default_sequence.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_default_sequence.png"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_sequence_acs.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_sequence_acs.png"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/main_ic_jrb.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/main_ic_jrb.png"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_sequence_desc.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_sequence_desc.png"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/tip_info_icon.png",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/tip_info_icon.png"
+    }
+]

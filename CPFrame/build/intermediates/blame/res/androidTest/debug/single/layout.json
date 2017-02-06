@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_listview_header.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_listview_header.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/common_title_bar.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/common_title_bar.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_basic_item.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_basic_item.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/common_activity_withscroll.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/common_activity_withscroll.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_listview_header_new.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_listview_header_new.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/navigation_viewpager.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/navigation_viewpager.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_custom_toast_dialog.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_custom_toast_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_popmenu_item.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_popmenu_item.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/pay_actionbar.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/pay_actionbar.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_title_popmenu_item.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_title_popmenu_item.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_item.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_item.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_progressweb_view.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_progressweb_view.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/counter_kuang_fragment.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/counter_kuang_fragment.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_progressdialog.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_sms_checkcode.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_sms_checkcode.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_toast.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_toast.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/paychannel_select_view.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/paychannel_select_view.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/auto_scroll_viewpager.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/auto_scroll_viewpager.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_title_popmenu.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_title_popmenu.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/tip_cvv_dialog.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/tip_cvv_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_title_bar.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_title_bar.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_item_shell.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_item_shell.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_popmenu.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_popmenu.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/paychannel_addcard_view.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/paychannel_addcard_view.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/common_progress.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/common_progress.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_item_divider.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_item_divider.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_webview_error_view.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_webview_error_view.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/activity_default_host.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/activity_default_host.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_item_shell_withline.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_item_shell_withline.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_dialog.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_rich_amount_text.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_rich_amount_text.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/common_error_fragment.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/common_error_fragment.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_lifepay_input.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_lifepay_input.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_listview_footer.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_listview_footer.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_toast_dialog.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_toast_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/cp_tableview_container.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/cp_tableview_container.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/paychannel_counter_cardnum_view.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/paychannel_counter_cardnum_view.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/navigation_txt_multi_title.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/navigation_txt_multi_title.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/common_activity.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/common_activity.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/androidTest/debug/layout/navigation_txt_title.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/bundles/debug/res/layout/navigation_txt_title.xml"
+    }
+]

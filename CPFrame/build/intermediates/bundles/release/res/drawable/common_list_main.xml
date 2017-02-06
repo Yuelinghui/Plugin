@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 点击状态下的效果 -->
+    <item android:state_enabled="true" android:state_pressed="true"><shape>
+
+            <!-- 设置背景填充色为黑色 -->
+            <solid android:color="@color/bg_pressed" />
+            <!-- 设置边框宽度为1dp，边框颜色为白色 -->
+            <stroke android:width="1px" android:color="@color/bg_pressed" />
+        </shape></item>
+    <!-- 正常状态下(非点击)的效果 -->
+    <item android:state_enabled="true" android:state_pressed="false"><shape>
+
+            <!-- 设置背景填充色为白色 -->
+            <solid android:color="@color/bg_content" />
+            <!-- 设置边框宽度为1dp，边框颜色为黑色 -->
+            <stroke android:width="1px" android:color="@color/bg_pressed" />
+        </shape></item>
+    <!-- 不可点击状态 -->
+    <!-- 正常状态下(非点击)的效果 -->
+    <item android:state_enabled="false"><shape>
+
+            <!-- 设置背景填充色为白色 -->
+            <solid android:color="@color/bg_pressed" />
+            <!-- 设置边框宽度为1dp，边框颜色为黑色 -->
+            <stroke android:width="1px" android:color="@color/bg_pressed" />
+        </shape></item>
+
+</selector>

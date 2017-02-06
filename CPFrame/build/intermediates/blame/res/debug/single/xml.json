@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/debug/xml/cp_keyboard_symbols.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/src/main/res/xml/cp_keyboard_symbols.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/debug/xml/cp_keyboard_qwerty.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/src/main/res/xml/cp_keyboard_qwerty.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/debug/xml/cp_keyboard_idcard.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/src/main/res/xml/cp_keyboard_idcard.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/debug/xml/cp_keyboard_number.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/src/main/res/xml/cp_keyboard_number.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/build/intermediates/res/merged/debug/xml/cp_keyboard_symbols_shift.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/CPFrame/src/main/res/xml/cp_keyboard_symbols_shift.xml"
+    }
+]

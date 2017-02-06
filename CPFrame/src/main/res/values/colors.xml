@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- UI规范2.0 -->
+    <!-- 文字色值 -->
+    <color name="text_white">#ffffff</color>
+    <color name="text_identity">#f15353</color>
+    <color name="text_hint">#cccccc</color>
+    <color name="text_hyperlinks">#0077ff</color>
+    <color name="text_main">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_thirdly">#999999</color>
+    <!-- 其他色值 -->
+    <color name="bg_common">#eeeeee</color>
+    <color name="bg_tip">#fffbde</color>
+    <color name="bg_item_pressed">#dddddd</color> 
+    <color name="line_light">#eeeeee</color>
+    <color name="line_divider">#dddddd</color>
+    <color name="btn_main">#f15353</color>
+    <color name="btn_main_pressed">#a83a3a</color>    
+    <color name="btn_secondary">#ffffff</color>
+    <color name="btn_secondary_broder">#dddddd</color>
+    <color name="btn_secondary_pressed">#dddddd</color>  
+    <color name="btn_secondary_enable">#dddddd</color>
+    <color name="btn_float">#f15353</color>
+    <color name="btn_float_pressed">#a83a3a</color>
+    <color name="btn_float_enable">#dddddd</color>
+    
+	<!-- 蓝色 -->
+	<color name="blue">#0088db</color>
+	<!-- 白色 -->
+	<color name="white">#FFFFFF</color>
+	<!-- 黑色 -->
+	<color name="black">#4d4d4d</color>
+	<!-- 红色 -->
+	<color name="red">#d9434b</color>
+	<!-- 绿色 -->
+	<color name="green">#00e592</color>
+	<!-- 灰色 -->
+	<color name="gray">#8d8d8d</color>
+	<!-- 白背景 -->
+	<color name="bg_white">#fdfdfd</color>
+	<!-- 灰背景 -->
+	<color name="bg_gray">#f1f1f1</color>
+	<color name="txt_income">#ffaa00</color>
+	<color name="txt_outlay">#39b54a</color>
+	
+	<color name="common_main_black">#333333</color>
+	<color name="common_main_gray">#dddddd</color>
+	<color name="common_main_white">#ffffff</color>
+	<color name="common_enable_gray">#999999</color>
+	<color name="common_main_red">#f15353</color>
+	<color name="common_dark_red">#a83a3a</color>
+	<color name="common_title_txt">#333333</color>
+
+	<!-- webView -->
+	<color name="webview_progress_bg">#f7ce6c</color>
+
+	<!-- 协议连接颜色 -->
+	<color name="hyperlinks">#d9434b</color>
+	<color name="hyperlinks_second">#559fed</color>
+
+	<!-- 透明黑色 -->
+	<color name="transparent_white">#90ffffff</color>
+	<color name="transparent_black">#30000000</color>
+	<color name="transparent_black_deep">#c0000000</color>
+	<color name="weak">#bdbdbd</color>
+	<color name="hint">#999999</color>
+	<color name="light">#ffffff</color>
+
+	<!-- menu -->
+	<color name="menu_bg_normal">#b33138</color>
+	<color name="menu_txt_normal">#ffffff</color>
+	<color name="menu_txt_selected">#ffcf5d</color>
+	<color name="menu_line">#d9434b</color>
+	<color name="menu_state_red_normal">#d9434b</color>
+	<color name="menu_state_red_pressed">#ce2730</color>
+
+	<!-- 业务相关颜色 -->
+	<color name="color_tip">#f58220</color>
+	<color name="color_error">#FF0000</color>
+	<color name="color_right">#99cc00</color>
+	<color name="color_title_bg">#d9434b</color>
+	<color name="common_bg">#f2f2f2</color>
+	<color name="common_bg_bright">#fafafa</color>
+	<color name="common_list_header_bg">#eeeeee</color>
+	<color name="gesture_line">#00e592</color>
+	<color name="tip_bottom_line">#cccccc</color>
+	<color name="tabview_text">#2d2d2d</color>
+	<color name="listview_divider">#b3b3b3</color>
+	<color name="color_login">#4d4d4d</color>
+	<color name="welcome">#c9e8f7</color>
+	<color name="wpay">#ff8800</color>
+	<color name="setHead">#dddddd</color>
+
+	<!-- tab bar -->
+
+	<color name="tab_bar_textcolor_active">#00a6ac</color>
+	<color name="tab_bar_textcolor_normal">#6a717a</color>
+
+	<!-- 文字颜色 -->
+	<!-- 金钱(红色) -->
+	<color name="txt_amount">#d9434b</color>
+	<!-- 链接(红色) -->
+	<color name="txt_hyperlinks">#d9434b</color>
+	<!-- 文字(红色) -->
+	<color name="txt_first_title">#d9434b</color>
+	<color name="txt_select_title">#f15353</color>
+	<color name="txt_warnning">#ff6e76</color>
+	<color name="txt_title">#ffffff</color>
+	<color name="txt_main">#555555</color>
+	<color name="txt_main_normal">#555555</color>
+	<color name="txt_main_pressed">#c1c1c1</color>
+	<color name="txt_secondary">#989898</color>
+	<color name="txt_disable">#dddddd</color>
+
+	<!-- 背景色  （由浅至深灰色） -->
+	<!-- 内容区 -->
+	<color name="bg_content">#ffffff</color>
+	<!-- 主界面 -->
+	<color name="bg_main">#f0f0f0</color>
+	<!-- 主菜单 -->
+	<color name="bg_menu">#f0f2ee</color>
+	<!-- 列表按下 -->
+	<color name="bg_pressed">#eeeeee</color>
+	<color name="counter_grid_bg">#eff0f3</color>
+	<color name="counter_item_text_normal">#7b87a6</color>
+	<color name="counter_item_text_disable">#c8cdd8</color>
+
+	<!-- 线颜色 -->
+	<!-- 常态（浅色） -->
+	<color name="line_normal">#eeeeee</color>
+	<!-- 按下（深色） -->
+	<color name="line_pressed">#dddddd</color>
+
+	<!-- LIST BORDER COLOR -->
+	<color name="rounded_container_border">#ffb7babb</color>
+
+	<!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+	<color name="base_start_color_default">#FFFFFF</color>
+	<color name="base_end_color_default">#FFFFFF</color>
+
+	<!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+	<color name="base_start_color_pressed">#ff3590c4</color>
+	<color name="base_end_color_pressed">#ff2570ba</color>
+
+	<!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+	<color name="text_color_default">#000000</color>
+	<color name="text_color_pressed">#ffffff</color>
+
+	<!-- 白色文字 -->
+	<color name="txt_white">#FFFFFF</color>
+	<!-- Title上左右滑动颜色 -->
+	<color name="slidetab_red">#500a25</color>
+	<color name="slidetab_white">#7fffffff</color>
+	<color name="pay_bg_message">#f2f2f2</color>
+
+	<color name="pay_txt_title">#ffffff</color>
+	<color name="pay_txt_title_unenable">#ff6e76</color>
+	<!-- 支付前置，通知栏文字 -->
+	<color name="txt_notification_bar">#b5662a</color>
+	<color name="bg_norification_bar">#f6e1bf</color>
+	<color name="ccr_red_color">#f15353</color>
+
+	<!--横向范围控件-->
+	<color name="range_bar_txt_color">@color/common_enable_gray</color>
+	<color name="range_bar_color">@color/common_enable_gray</color>
+	<color name="range_bar_chooce_color">#f15353</color>
+	<!--赎回控件-->
+	<color name="pay_txt_main">#555555</color>
+	<color name="pay_txt_hint">#ffdddddd</color>
+</resources>
