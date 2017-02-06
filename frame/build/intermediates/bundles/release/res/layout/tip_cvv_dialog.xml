@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginLeft="@dimen/margin_h_middle"
+	android:layout_marginRight="@dimen/margin_h_middle"
+	android:background="@drawable/common_round_white_bg"
+	android:orientation="vertical" >
+
+	<ImageView
+		android:id="@+id/img_tip"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/margin_h_middle"
+		android:layout_marginRight="@dimen/margin_h_middle"
+		android:src="@drawable/tip_icon_safenum" />
+
+	<TextView
+		android:id="@+id/txt_title_tip"
+		style="@style/txt_large"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/margin_h_middle"
+		android:layout_marginRight="@dimen/margin_h_middle"
+		android:gravity="center"
+		android:text="安全码说明" />
+
+	<TextView
+		android:id="@+id/txt_describe_tip"
+		style="@style/txt_small"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="36dp"
+		android:layout_marginRight="36dp"
+		android:layout_marginTop="18dp"
+		android:gravity="center"
+		android:lineSpacingExtra="@dimen/linespacing_middle"
+		android:text="安全码是卡背面签名区的一组数字，一般为末位三位或四位"
+		android:textColor="@color/txt_main" />
+
+	<View
+		style="@style/divider_line"
+		android:layout_width="match_parent"
+		android:layout_marginTop="@dimen/margin_cell"
+		android:background="@color/line_normal" />
+
+	<com.frame.widget.CPButton
+		android:id="@+id/btn_ok"
+		style="@style/btn_model"
+		android:text="@string/tip_ok" />
+
+</LinearLayout>

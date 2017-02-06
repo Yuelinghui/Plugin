@@ -1,2 +1,2 @@
-include ':app', ':plugintest', ':cpplugin'
-include ':CPFrame'
+include ':app', ':plugintest', ':plugin'
+include ':frame'

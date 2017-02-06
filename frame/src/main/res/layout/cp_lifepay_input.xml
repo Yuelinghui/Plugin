@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	style="@style/common_frame"
+	android:orientation="vertical" >
+
+	<FrameLayout
+		android:id="@+id/input_container"
+		style="@style/common_frame"
+		android:gravity="center_vertical" >
+
+		<com.yuelinghui.widget.edit.CPEdit
+			style="@style/edit_normal"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:drawablePadding="@dimen/padding_middle"
+			android:gravity="center_vertical"
+			android:paddingLeft="@dimen/padding_input_edit"
+			android:paddingRight="@dimen/padding_middle"
+			android:tag="@string/cp_input_edit" />
+
+		<TextView
+			style="@style/txt_normal"
+			android:layout_gravity="center_vertical"
+			android:gravity="center_vertical"
+			android:paddingLeft="@dimen/padding_middle"
+			android:tag="@string/cp_input_left_txt" />
+	</FrameLayout>
+
+	<TextView
+		android:id="@+id/txt_tip"
+		style="@style/txt_small"
+		android:layout_marginLeft="@dimen/padding_middle"
+		android:layout_marginTop="@dimen/margin_v_tip"
+		android:tag="@string/cp_input_txt"
+		android:textColor="@color/weak"
+		android:visibility="gone" />
+
+</LinearLayout>

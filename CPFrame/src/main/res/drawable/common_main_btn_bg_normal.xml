@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
-     <solid android:color="@color/common_main_red" /> <!-- 背景颜色 -->
-     <corners android:radius="4dp" /> <!-- 圆角的程度 -->
-</shape>

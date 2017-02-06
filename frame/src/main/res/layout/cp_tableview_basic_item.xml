@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/itemContainer"
+	android:layout_width="match_parent"
+	android:layout_height="@dimen/cp_widget_height"
+	android:gravity="center_vertical"
+	android:paddingLeft="@dimen/padding_middle"
+	android:paddingRight="@dimen/padding_middle"
+	android:orientation="horizontal" >
+
+	<com.yuelinghui.widget.image.CPImageView
+		android:id="@+id/image"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginRight="@dimen/margin_h_middle"
+		android:adjustViewBounds="true"
+		android:maxHeight="40dp"
+		android:maxWidth="40dp"
+		android:visibility="gone" />
+
+	<TextView
+		android:id="@+id/title"
+		style="@style/cp_table_txt_title"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginRight="@dimen/margin_h_middle"
+		android:maxEms="10"
+		android:singleLine="true" />
+
+	<TextView
+		android:id="@+id/subtitle"
+		style="@style/cp_table_txt_subtitle"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginRight="@dimen/margin_h_middle"
+		android:singleLine="true"
+		android:visibility="gone" />
+
+	<TextView
+		android:id="@+id/content"
+		style="@style/cp_table_txt_content"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:gravity="center_vertical|right"
+		android:singleLine="true"
+		android:visibility="visible" />
+
+	<ImageView
+		android:id="@+id/chevron"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/margin_h_small"
+		android:background="@drawable/common_select_arrow" />
+
+</LinearLayout>

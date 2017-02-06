@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:wangyin="http://schemas.android.com/apk/res-auto"
+			  android:id="@+id/layout_paypwd_dialog"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent"
+			  android:gravity="center"
+			  android:orientation="vertical" >
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_gravity="center"
+		android:layout_weight="1" >
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginLeft="@dimen/margin_h_middle"
+			android:layout_marginRight="@dimen/margin_h_middle"
+			android:background="@drawable/counter_bg"
+			android:orientation="vertical" >
+
+			<com.frame.widget.CPActionBar
+				android:id="@+id/bar_title"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content" />
+			<!-- 金额 -->
+
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:orientation="horizontal"
+				android:paddingTop="@dimen/margin_h_middle" >
+
+				<TextView
+					android:id="@+id/txt_amount"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textColor="@color/pay_txt_main"
+					android:textSize="@dimen/size_large_amount" />
+
+				<!-- 金额单位 -->
+
+				<TextView
+					android:id="@+id/txt_amount_unit"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="@dimen/margin_v_tip"
+					android:textColor="@color/pay_txt_main"
+					android:textSize="@dimen/size_large" />
+			</LinearLayout>
+
+			<!-- 支付方式提示 -->
+
+			<FrameLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:layout_marginTop="@dimen/margin_v_tip" >
+
+				<TextView
+					android:id="@+id/txt_pay_mode_tip"
+					style="@style/txt_normal"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:gravity="center"
+					android:textSize="@dimen/size_word" />
+			</FrameLayout>
+
+			<!-- 短信校验码输入 -->
+
+			<com.frame.widget.CPSmsCheckCode
+				android:id="@+id/sms_checkcode"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="@dimen/margin_h_middle"
+				android:layout_marginRight="@dimen/margin_h_middle"
+				android:layout_marginTop="@dimen/margin_h_middle" />
+
+			<!-- 6位支付密码 -->
+
+			<com.frame.widget.input.CPMobilePwdInput
+				android:id="@+id/input_mobile_paypwd"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginLeft="@dimen/margin_h_middle"
+				android:layout_marginRight="@dimen/margin_h_middle"
+				android:layout_marginTop="@dimen/margin_h_middle"
+				android:background="@color/common_bg"
+				android:inputType="textPassword"
+				android:textSize="@dimen/size_large_amount"
+				android:visibility="gone" />
+
+			<!-- 支付密码输入 -->
+
+			<com.frame.widget.input.CPXPasswordInput
+				android:id="@+id/input_paypwd"
+				android:layout_width="match_parent"
+				android:layout_height="@dimen/cp_widget_height"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginLeft="@dimen/margin_h_middle"
+				android:layout_marginRight="@dimen/margin_h_middle"
+				android:layout_marginTop="@dimen/margin_h_middle"
+				android:textColorHint="@color/pay_txt_hint"
+				android:textSize="@dimen/size_large"
+				android:visibility="gone"
+				wangyin:background="@color/common_bg"
+				wangyin:hint="@string/withdraw_input_key_pay_pwd" />
+
+			<!-- 付款 -->
+
+			<com.frame.widget.CPButton
+				android:id="@+id/btn_pay"
+				style="@style/btn_main"
+				android:layout_height="@dimen/cp_widget_height"
+				android:layout_margin="@dimen/margin_h_middle"
+				android:gravity="center" />
+		</LinearLayout>
+	</ScrollView>
+
+	<android.inputmethodservice.KeyboardView
+		android:id="@+id/kuang_keyboard_view"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="@dimen/margin_cell"
+		android:focusable="true"
+		android:focusableInTouchMode="true"
+		android:visibility="gone" />
+
+</LinearLayout>

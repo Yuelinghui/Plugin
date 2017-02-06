@@ -1,0 +1,211 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- popuWindow 动画 -->
+    <style name="popuWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/popuwindow_in</item>
+        <item name="android:windowExitAnimation">@anim/popuwindow_out</item>
+    </style>
+
+    <!-- 通用控件宽高设置 -->
+    <style name="common_frame">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:minHeight">@dimen/cp_widget_height</item>
+    </style>
+
+    <!-- 普通文本 -->
+    <style name="txt_normal">
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:textColor">@color/txt_main</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColorHint">@color/hint</item>
+    </style>
+     <!-- 超链接文本 -->
+  <style name="txt_hyperlinks_second" parent="txt_normal">
+    <item name="android:textSize">@dimen/size_middle</item>
+    <item name="android:textColor">@color/hyperlinks_second</item>
+    <item name="android:clickable">true</item>
+  </style>
+
+    <!-- 小文本 -->
+    <style name="txt_small" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_small</item>
+    </style>
+
+    <!-- 小文本 -->
+    <style name="txt_xmiddle" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_xmiddle</item>
+    </style>
+
+    <!-- 大文本 -->
+    <style name="txt_large" parent="txt_normal">
+        <item name="android:textSize">@dimen/size_large</item>
+    </style>
+    
+     <!-- 灰色文本 -->
+  <style name="txt_hint" parent="txt_normal">
+    <item name="android:textSize">@dimen/size_middle</item>
+    <item name="android:textColor">@color/hint</item>
+    </style>
+
+    <!-- 默认按钮 -->
+    <style name="btn_normal">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cp_widget_height</item>
+        <item name="android:textSize">@dimen/size_large</item>
+        <item name="android:paddingLeft">@dimen/padding_middle</item>
+        <item name="android:paddingRight">@dimen/padding_middle</item>
+    </style>
+
+    <style name="btn_normal_standard">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/common_btn_height</item>
+        <item name="android:textSize">@dimen/size_xmiddle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- 主按钮 -->
+    <style name="btn_main" parent="btn_normal">
+        <item name="android:background">@drawable/common_mainbtn_bg</item>
+        <item name="android:textColor">@color/common_main</item>
+    </style>
+    <!-- 主按钮-新标准 -->
+    <style name="btn_main_standard" parent="btn_normal_standard">
+        <item name="android:layout_marginTop">@dimen/common_btn_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/padding_middle</item>
+        <item name="android:layout_marginRight">@dimen/padding_middle</item>
+        <item name="android:background">@drawable/common_main_btn_bg</item>
+        <item name="android:textColor">@color/common_main_btn_txt</item>
+    </style>
+    <!-- 二级按钮-新标准 -->
+    <style name="btn_secondary_standard" parent="btn_normal_standard">
+        <item name="android:layout_marginTop">@dimen/common_btn_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/padding_middle</item>
+        <item name="android:layout_marginRight">@dimen/padding_middle</item>
+        <item name="android:background">@drawable/common_secondarybtn_bg</item>
+        <item name="android:textColor">@color/common_secondary_btn_txt</item>
+    </style>
+    <!-- 底部浮动按钮-新标准 -->
+    <style name="btn_float_standard" parent="btn_normal_standard">
+        <item name="android:background">@drawable/common_float_btn_bg</item>
+        <item name="android:textColor">@color/common_main_btn_txt</item>
+    </style>
+
+    <!-- 默认文本框 -->
+    <style name="edit_normal" parent="common_frame">
+        <item name="android:background">@color/bg_content</item>
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColorHint">@color/hint</item>
+        <item name="android:textColor">@color/common_text_color</item>
+    </style>
+
+    <!-- 白色按钮 -->
+    <style name="btn_light" parent="btn_normal">
+        <item name="android:background">@drawable/common_lightbtn_bg</item>
+        <item name="android:textColor">@color/common_light</item>
+    </style>
+
+    <style name="divider_line">
+        <item name="android:layout_width">@dimen/divider_line_height</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@color/line_normal</item>
+    </style>
+
+    <style name="divider_line_bottom">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@drawable/spliter</item>
+    </style>
+
+    <style name="cp_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="CustomProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@drawable/icon_transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="app_title_background_color">
+        <item name="android:background">@color/common_bg</item>
+    </style>
+
+    <!-- activity 使用自定义标题样式 -->
+    <style name="common_title_style" parent="android:Theme">
+        <item name="android:windowTitleSize">@dimen/title_high</item>
+        <item name="android:windowBackground">@color/common_bg</item>
+        <item name="android:windowTitleBackgroundStyle">@style/app_title_background_color</item>
+    </style>
+
+    <!-- TEXT -->
+    <style name="cp_table_txt_title">
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/txt_main</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="cp_table_txt_subtitle">
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_secondary</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="cp_table_txt_content">
+        <item name="android:textSize">@dimen/size_middle</item>
+        <item name="android:textColor">@color/hint</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="edit_divider_line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:paddingLeft">@dimen/padding_line</item>
+        <item name="android:paddingRight">@dimen/padding_line</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <!-- 模态窗口按钮 -->
+    <style name="btn_model" parent="btn_main">
+        <item name="android:layout_margin">@dimen/dialog_model_btn_margin</item>
+        <item name="android:layout_height">@dimen/dialog_model_btn_height</item>
+    </style>
+
+    <!-- 通用activity theme -->
+    <style name="Theme.Activity.Common" parent="android:Theme">
+        <item name="android:windowTitleSize">@dimen/title_high</item>
+        <item name="android:windowBackground">@color/common_bg</item>
+        <item name="android:windowTitleBackgroundStyle">@style/app_title_background_color</item>
+        <item name="android:windowAnimationStyle">@style/animation_activity_common</item>
+    </style>
+
+    <!-- activity左右切换动画 -->
+    <style name="animation_activity_common">
+        <item name="android:activityOpenEnterAnimation">@anim/push_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/push_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_right_out</item>
+    </style>
+
+</resources>

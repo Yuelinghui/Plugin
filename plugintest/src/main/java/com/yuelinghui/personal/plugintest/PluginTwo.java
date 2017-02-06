@@ -2,10 +2,10 @@ package com.yuelinghui.personal.plugintest;
 
 import android.os.Bundle;
 
-import com.cpframe.CPPlugin;
-import com.cpframe.ui.ErrorFragment;
-import com.yuelinghui.personal.cpplugin.PluginActivity;
-import com.yuelinghui.personal.cpplugin.UIData;
+import com.yuelinghui.personal.frame.ui.CPPlugin;
+import com.yuelinghui.personal.frame.ui.ErrorFragment;
+import com.yuelinghui.personal.host.PluginActivity;
+import com.yuelinghui.personal.host.UIData;
 
 /**
  * Created by yuelinghui on 17/2/6.

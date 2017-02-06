@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/CPFrame" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/cpplugin" />
+            <option value="$PROJECT_DIR$/frame" />
+            <option value="$PROJECT_DIR$/plugin" />
             <option value="$PROJECT_DIR$/plugintest" />
           </set>
         </option>

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CPFrame/CPFrame.iml" filepath="$PROJECT_DIR$/CPFrame/CPFrame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plugin.iml" filepath="$PROJECT_DIR$/Plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cpplugin/cpplugin.iml" filepath="$PROJECT_DIR$/cpplugin/cpplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/frame.iml" filepath="$PROJECT_DIR$/frame/frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugintest/plugintest.iml" filepath="$PROJECT_DIR$/plugintest/plugintest.iml" />
     </modules>
   </component>

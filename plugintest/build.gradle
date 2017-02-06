@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-    compile project(':CPFrame')
+    compile project(':frame')
     provided files('libs/classes.jar')
     provided files('libs/android-support-v4.jar')
     provided files('libs/gson-2.2.2.jar')

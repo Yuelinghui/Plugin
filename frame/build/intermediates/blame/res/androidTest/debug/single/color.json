@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/menu_item_bg.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/menu_item_bg.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/tab_bar_textcolor1.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/tab_bar_textcolor1.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_secondary_btn_txt.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_secondary_btn_txt.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_btn_sms.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_btn_sms.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_main.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_main.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/sms_btn_text_color.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/sms_btn_text_color.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_main_btn_txt.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_main_btn_txt.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_light.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_light.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_text_color.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_text_color.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_normal.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_normal.xml"
+    },
+    {
+        "merged": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/res/merged/androidTest/debug/color/common_list_main_withoutborder.xml",
+        "source": "/Users/yuelinghui/AndroidStudioWork/Plugin/frame/build/intermediates/bundles/debug/res/color/common_list_main_withoutborder.xml"
+    }
+]
