@@ -22,7 +22,7 @@
 			android:gravity="center"
 			android:orientation="vertical" >
 
-			<com.frame.widget.image.CPImageView
+			<com.yuelinghui.widget.image.CPImageView
 				android:id="@+id/cp_listview_header_img"
 				android:layout_width="wrap_content"
 				android:layout_height="30dp"

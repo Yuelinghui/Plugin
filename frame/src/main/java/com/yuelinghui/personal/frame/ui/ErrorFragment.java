@@ -6,10 +6,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 
-import com.yuelinghui.R;
-import com.yuelinghui.personal.host.Activityable;
-import com.yuelinghui.personal.host.PluginContext;
-import com.yuelinghui.personal.host.PluginLayoutInflater;
+import com.yuelinghui.personal.frame.R;
+import com.yuelinghui.personal.plugin.Activityable;
+import com.yuelinghui.personal.plugin.PluginContext;
+import com.yuelinghui.personal.plugin.PluginLayoutInflater;
 
 /**
  * 错误页面

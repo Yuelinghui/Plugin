@@ -1,5 +1,8 @@
 package com.yuelinghui.personal.host;
 
+import com.yuelinghui.personal.plugin.PluginableApplication;
+import com.yuelinghui.personal.plugin.RunningEnvironment;
+
 import java.io.File;
 
 /**

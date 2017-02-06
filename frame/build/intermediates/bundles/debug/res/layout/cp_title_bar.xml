@@ -11,7 +11,7 @@
 		android:layout_height="match_parent"
 		android:gravity="center_vertical" >
 
-		<com.frame.widget.image.CPImageView
+		<com.yuelinghui.widget.image.CPImageView
 			android:id="@+id/img_back"
 			android:layout_width="@dimen/common_title_height"
 			android:layout_height="@dimen/common_title_height"
@@ -34,7 +34,7 @@
 			android:textColor="@color/common_title_txt"
 			android:textSize="@dimen/size_large" />
 
-		<com.frame.widget.CPButton
+		<com.yuelinghui.widget.CPButton
 			android:id="@+id/txt_right_title"
 			android:layout_width="wrap_content"
 			android:layout_height="match_parent"
@@ -47,7 +47,7 @@
 			android:textColor="@color/txt_main"
 			android:visibility="gone" />
 
-		<com.frame.widget.image.CPImageView
+		<com.yuelinghui.widget.image.CPImageView
 			android:id="@+id/img_right_title"
 			android:layout_width="@dimen/common_title_height"
 			android:layout_height="@dimen/common_title_height"

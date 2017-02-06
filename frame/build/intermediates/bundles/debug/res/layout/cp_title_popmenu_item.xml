@@ -12,7 +12,7 @@
         android:gravity="center_vertical"
 		android:orientation="horizontal" >
 
-        <com.frame.widget.image.CPImageView
+        <com.yuelinghui.widget.image.CPImageView
             android:id="@+id/img_action"
 			android:layout_width="24dp"
 			android:layout_height="24dp"

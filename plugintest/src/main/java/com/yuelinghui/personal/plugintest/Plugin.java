@@ -3,8 +3,9 @@ package com.yuelinghui.personal.plugintest;
 import android.os.Bundle;
 
 import com.yuelinghui.personal.frame.ui.CPPlugin;
-import com.yuelinghui.personal.host.PluginActivity;
-import com.yuelinghui.personal.host.UIData;
+import com.yuelinghui.personal.plugin.PluginActivity;
+import com.yuelinghui.personal.plugin.UIData;
+
 
 public class Plugin extends CPPlugin {
 

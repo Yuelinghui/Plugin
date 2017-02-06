@@ -5,7 +5,7 @@
 	android:background="@color/white"
 	android:gravity="center_vertical" >
 
-	<com.frame.widget.title.CPTitleBar
+	<com.yuelinghui.widget.title.CPTitleBar
 		android:id="@+id/title_bar"
 		android:layout_width="match_parent"
 		android:layout_height="@dimen/common_title_height" />

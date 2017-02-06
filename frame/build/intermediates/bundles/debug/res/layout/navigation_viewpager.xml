@@ -66,7 +66,7 @@
 				android:src="@drawable/icon_navigation_left_arrow"
 				android:visibility="invisible" />
 
-			<com.frame.widget.viewpager.CPHorizontalScrollView
+			<com.yuelinghui.widget.viewpager.CPHorizontalScrollView
 				android:id="@+id/layout_multi_title_root"
 				android:layout_width="0dp"
 				android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
 						android:background="@color/txt_select_title"
 						android:visibility="gone" />
 				</LinearLayout>
-			</com.frame.widget.viewpager.CPHorizontalScrollView>
+			</com.yuelinghui.widget.viewpager.CPHorizontalScrollView>
 
 			<ImageView
 				android:id="@+id/img_multi_title_right_arrow"

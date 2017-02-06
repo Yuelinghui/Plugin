@@ -44,7 +44,7 @@
 		android:layout_marginTop="@dimen/margin_cell"
 		android:background="@color/line_normal" />
 
-	<com.frame.widget.CPButton
+	<com.yuelinghui.widget.CPButton
 		android:id="@+id/btn_ok"
 		style="@style/btn_model"
 		android:text="@string/tip_ok" />

@@ -25,7 +25,7 @@
 		android:gravity="center_vertical"
 		android:orientation="horizontal" >
 
-		<com.frame.widget.input.CPCheckCodeEdit
+		<com.yuelinghui.widget.input.CPCheckCodeEdit
 			android:id="@+id/edit_sms_checkcode"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"

@@ -3,6 +3,8 @@ package com.yuelinghui.personal.host;
 import android.content.Context;
 import android.text.TextUtils;
 
+import com.yuelinghui.personal.plugin.RunningEnvironment;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;

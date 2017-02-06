@@ -7,7 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.yuelinghui.personal.host.PluginFragment;
+import com.yuelinghui.personal.plugin.PluginFragment;
+
 
 /**
  * Created by yuelinghui on 17/2/6.

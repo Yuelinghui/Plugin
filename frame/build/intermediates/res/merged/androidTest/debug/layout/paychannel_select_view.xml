@@ -17,7 +17,7 @@
 
 		<!-- 银行图标 -->
 
-		<com.frame.widget.image.CPImageView
+		<com.yuelinghui.widget.image.CPImageView
 			android:id="@+id/img_banklogo"
 			android:layout_width="@dimen/image_normal"
 			android:layout_height="@dimen/image_normal"

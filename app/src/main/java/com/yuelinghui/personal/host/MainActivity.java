@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.yuelinghui.personal.plugin.PluginableApplication;
+
 public class MainActivity extends FragmentActivity {
 
     @Override

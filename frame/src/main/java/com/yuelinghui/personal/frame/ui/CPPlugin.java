@@ -12,12 +12,12 @@ import android.view.WindowManager.LayoutParams;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.yuelinghui.R;
-import com.yuelinghui.personal.host.Activityable;
-import com.yuelinghui.personal.host.PluginActivity;
-import com.yuelinghui.personal.host.PluginContext;
-import com.yuelinghui.personal.host.PluginFragment;
-import com.yuelinghui.personal.host.UIData;
+import com.yuelinghui.personal.frame.R;
+import com.yuelinghui.personal.plugin.Activityable;
+import com.yuelinghui.personal.plugin.PluginActivity;
+import com.yuelinghui.personal.plugin.PluginContext;
+import com.yuelinghui.personal.plugin.PluginFragment;
+import com.yuelinghui.personal.plugin.UIData;
 
 /**
  * 

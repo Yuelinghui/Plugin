@@ -14,7 +14,7 @@
 		android:background="@drawable/tableview_item_bg"
 		android:orientation="horizontal" >
 
-		<com.frame.widget.input.CPBankCardInput
+		<com.yuelinghui.widget.input.CPBankCardInput
 			android:id="@+id/input_cardnum"
 			android:layout_width="0dp"
 			android:layout_height="@dimen/cp_widget_height"
@@ -76,7 +76,7 @@
 			android:paddingLeft="@dimen/padding_input_edit_small"
 			android:paddingRight="28dp">
 
-			<com.frame.widget.image.CPImageView
+			<com.yuelinghui.widget.image.CPImageView
 				android:id="@+id/imgview_bank_logo"
 				android:layout_width="@dimen/ccr_card_support_logo_size"
 				android:layout_height="@dimen/ccr_card_support_logo_size"

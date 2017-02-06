@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
     
-    <com.frame.widget.web.CPScrollWebView
+    <com.yuelinghui.widget.web.CPScrollWebView
 		android:id="@+id/web_internal"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent" />

@@ -37,7 +37,7 @@
             android:orientation="vertical"
             android:paddingBottom="20dp" >
 
-            <com.frame.widget.image.CPImageView
+            <com.yuelinghui.widget.image.CPImageView
                 android:id="@+id/pull_to_refresh_center_img"
                 android:layout_width="@dimen/padding_input_edit_small"
                 android:layout_height="@dimen/image_middle"

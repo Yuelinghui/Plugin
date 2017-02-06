@@ -5,11 +5,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 
-import com.yuelinghui.R;
-import com.yuelinghui.personal.host.PluginActivity;
-import com.yuelinghui.personal.host.PluginContext;
-import com.yuelinghui.personal.host.PluginFragment;
-import com.yuelinghui.personal.host.UIData;
+import com.yuelinghui.personal.frame.R;
+import com.yuelinghui.personal.plugin.PluginActivity;
+import com.yuelinghui.personal.plugin.PluginContext;
+import com.yuelinghui.personal.plugin.PluginFragment;
+import com.yuelinghui.personal.plugin.UIData;
 
 import java.util.List;
 

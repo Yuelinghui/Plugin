@@ -4,8 +4,8 @@ import android.os.Bundle;
 
 import com.yuelinghui.personal.frame.ui.CPPlugin;
 import com.yuelinghui.personal.frame.ui.ErrorFragment;
-import com.yuelinghui.personal.host.PluginActivity;
-import com.yuelinghui.personal.host.UIData;
+import com.yuelinghui.personal.plugin.PluginActivity;
+import com.yuelinghui.personal.plugin.UIData;
 
 /**
  * Created by yuelinghui on 17/2/6.

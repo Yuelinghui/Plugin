@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.text.TextUtils;
 
+import com.yuelinghui.personal.plugin.PluginActivity;
+
 
 /**
  * Created by yuelinghui on 17/2/6.

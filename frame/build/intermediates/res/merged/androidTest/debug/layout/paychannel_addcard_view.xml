@@ -37,7 +37,7 @@
 
 	<!-- 银行卡号输入,银行卡类型 -->
 
-	<com.frame.widget.paychannel.CounterBankcardInput
+	<com.yuelinghui.widget.paychannel.CounterBankcardInput
 		android:id="@+id/input_counter_cardnum"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content" />
@@ -56,7 +56,7 @@
 
 	<!-- 查看支持的银行列表 -->
 
-	<com.frame.widget.CPButton
+	<com.yuelinghui.widget.CPButton
 		android:id="@+id/txt_limit_hyperlinks"
 		style="@style/txt_hyperlinks_second"
 		android:layout_width="match_parent"

@@ -21,7 +21,7 @@
 			android:background="@drawable/counter_bg"
 			android:orientation="vertical" >
 
-			<com.frame.widget.CPActionBar
+			<com.yuelinghui.widget.CPActionBar
 				android:id="@+id/bar_title"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content" />
@@ -71,7 +71,7 @@
 
 			<!-- 短信校验码输入 -->
 
-			<com.frame.widget.CPSmsCheckCode
+			<com.yuelinghui.widget.CPSmsCheckCode
 				android:id="@+id/sms_checkcode"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
 
 			<!-- 6位支付密码 -->
 
-			<com.frame.widget.input.CPMobilePwdInput
+			<com.yuelinghui.widget.input.CPMobilePwdInput
 				android:id="@+id/input_mobile_paypwd"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
 
 			<!-- 支付密码输入 -->
 
-			<com.frame.widget.input.CPXPasswordInput
+			<com.yuelinghui.widget.input.CPXPasswordInput
 				android:id="@+id/input_paypwd"
 				android:layout_width="match_parent"
 				android:layout_height="@dimen/cp_widget_height"
@@ -112,7 +112,7 @@
 
 			<!-- 付款 -->
 
-			<com.frame.widget.CPButton
+			<com.yuelinghui.widget.CPButton
 				android:id="@+id/btn_pay"
 				style="@style/btn_main"
 				android:layout_height="@dimen/cp_widget_height"

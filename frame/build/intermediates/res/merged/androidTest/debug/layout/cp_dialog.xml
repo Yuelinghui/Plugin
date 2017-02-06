@@ -86,7 +86,7 @@
 				android:layout_height="@dimen/cp_widget_height"
 				android:background="@color/common_bg" />
 
-			<com.frame.widget.CPButton
+			<com.yuelinghui.widget.CPButton
 				android:id="@+id/btn_ok"
 				style="@style/btn_normal"
 				android:layout_gravity="right"
